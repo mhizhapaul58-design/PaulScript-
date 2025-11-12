@@ -3,6 +3,7 @@
 ## **Overview** 
 
 -This project is personal portfolio website crreated to showcase my skills, projects and personality
+
 -It will serve a digital resume and creative space to display my work
 
 ## **Purpose**
@@ -29,7 +30,7 @@ Anyone interested in learning more about me my work
 
 -Color theme:mix of light and dark theme
 
--layout:Responsive grid layout using CSS to ensure easy accessibility    
+-layout:Responsive grid layout using flexbox  CSS to ensure easy accessibility    
 
 -Typography:Sans-serif for readability
 
