@@ -17,6 +17,14 @@ Other students in my field
 
 Anyone interested in learning more about me my work 
 
+**Pages**
+
+1st page will be about me, my hobbies and my education
+
+2nd page will be about my knowledge to HTML and CSS
+
+3rd page will be about my knowledge to SQL and Database
+
 
 
 
