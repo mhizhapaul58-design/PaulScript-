@@ -9,8 +9,15 @@ It will serve a digital resume and creative space to display my work
 
 To create an online presence that represent me and my work
 
-**Goals**
-
 Display my portfolio with details and visuals
+
+**Target audience**
+
+Other students in my field
+
+Anyone interested in learning more about me my work 
+
+
+
 
 
