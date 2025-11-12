@@ -47,6 +47,38 @@ Anyone interested in learning more about me my work
 
 -Github for hotsing
 
+## **HTML and CSS evolution**
+
+HTML evolved from a simple document launguage to a more suprior structure based language that supports multimedia
+
+CSS has similarily advanced from basic styling to more impresive tools like grid and animations
+
+TOgether,they enable developers to build user friendly experiences 
+
+## **4 HTML tags  to use effectively**
+### HTML
+
+Defines the root of an HTML document
+
+### Headings
+
+HTML headings are titles or subtitles that you want to display on a webpage
+
+### Lists
+
+HTML lists allow web developers to group a set of related items in lists
+
+### Paragraphs
+
+A paragraph always starts on a new line, and browsers automatically add some white space (a margin) before and after a paragraph.
+
+
+
+
+
+
+
+
 
 
 
