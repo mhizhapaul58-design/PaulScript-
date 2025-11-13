@@ -20,17 +20,17 @@ Anyone interested in learning more about me my work
 
 ## **Pages**
 
--1st page will be about me, my hobbies and my education
+-index.html intoduces who I am , my goals and skills i am developing
 
--2nd page will be about my knowledge to HTML and CSS
+-webdev.html showcases my understaning of html structure , CSS styling and web design principles
 
--3rd page will be about my knowledge to SQL and Database
+-dbmaster.html highlights my knowledge of databases and SQL queries
 
 ## **Design and Stlye**
 
 -Color theme:mix of light and dark theme
 
--layout:Responsive grid layout using flexbox  CSS to ensure easy accessibility    
+-layout:simple consistent navigation bar the top for easy page access . Sections will be  aligned using a grid or  flexbox layout 
 
 -Typography:Sans-serif for readability
 
@@ -44,9 +44,9 @@ Anyone interested in learning more about me my work
 
 -HTML5 for structure
 
--CSS3 for styling
+-CSS3 for styling and layout
 
--Github for hotsing
+-Github for hotsing the site 
 
 ## **HTML and CSS evolution**
 
@@ -57,22 +57,42 @@ CSS has similarily advanced from basic styling to more impresive tools like grid
 TOgether,they enable developers to build user friendly experiences 
 
 ## **4 HTML tags  to use effectively**
-### HTML
 
-Defines the root of an HTML document
+### Comments
 
-### Headings
+HTML comments are not displayed in the browser, but they can help document your HTML source code.
 
-HTML headings are titles or subtitles that you want to display on a webpage
+### Forms
 
-### Lists
+An HTML form is used to collect user input. The user input is most often sent to a server for processing.
 
-HTML lists allow web developers to group a set of related items in lists
+### Canvas
 
-### Paragraphs
+The HTML <canvas> element is used to draw graphics on a web page.
 
-A paragraph always starts on a new line, and browsers automatically add some white space (a margin) before and after a paragraph.
+### Iframes
 
+ HTML iframe is used to display a web page within a web page.
+
+ ## **CSS properties and techniques** 
+
+ ### **Flexbox**
+
+ Aligns and distributes items evenly for responsive design 
+
+ ### **Font-family**
+
+ Control typography and improves readability 
+
+ ### **color and background-color**
+
+ Defines text and background colors for  a clean theme 
+
+ ### **Hover**
+
+ Adds intercativity by changing an element's style when the mouse hovers over it (button color change)
+
+ 
 
 
 
