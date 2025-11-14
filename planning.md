@@ -84,7 +84,7 @@ The HTML <canvas> element is used to draw graphics on a web page.
 
  Control typography and improves readability 
 
- ### **color and background-color**
+ ### **Color and background-color**
 
  Defines text and background colors for  a clean theme 
 
