@@ -14,9 +14,9 @@
 
 ## **Target audience**
 
-Other students in my field
+-Other students in my field
 
-Anyone interested in learning more about me my work 
+-Anyone interested in learning more about me my work 
 
 ## **Pages**
 
