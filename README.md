@@ -44,6 +44,42 @@
 
 ## Technologies used
 
+- HTML5 for structure
+
+- CSS3 for styling and layout
+
+- Github for hotsing the site
+
+## Instructions for viewing the site locally
+
+- Download the project folder
+
+- Ensure all files stay in the same structure
+
+- Open index.html in any browser (Chrome , Edge etc )
+
+- Alternatively go to the following links
+
+  https://github.com/
+  https://github.com/mhizhapaul58-design/PaulScript-
+
+## Links to the live pages
+
+  https://github.com/
+  https://github.com/mhizhapaul58-design/PaulScript-
+ 
+## Credits and attributions for any resources used
+
+## Reflection on what you learned during this project
+
+
+
+  
+  
+ 
+  
+  
+
 
 
  
