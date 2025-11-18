@@ -34,5 +34,18 @@
 
 ### dbmaster -  SQL and Database 
 
-- Basic SQL 
+- Basic SQL concepts (quieries annd relationships)
+
+## Special Features
+
+- Typography and spacing for readability
+- Consistent theme and color across pages
+- Navigation menu for easy movmement between pages
+
+## Technologies used
+
+
+
+ 
+    
 
