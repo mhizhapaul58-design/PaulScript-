@@ -17,8 +17,11 @@
 ### index.html - About me
 
 -Introducton and Background
+
 -my interests 
+
 -Brief description  of the purpose of the website
+
 -Nvigation links to the other pages
 
 ### 
