@@ -26,7 +26,7 @@
 
 ### Webdev.html - HTML and CSS
 
--Explantion of HTML Tags 
+- Explantion of HTML Tags 
 
 - List of CSS Techniques and where they can be used
 
@@ -39,7 +39,9 @@
 ## Special Features
 
 - Typography and spacing for readability
+
 - Consistent theme and color across pages
+  
 - Navigation menu for easy movmement between pages
 
 ## Technologies used
@@ -61,14 +63,16 @@
 - Alternatively go to the following links
 
   https://github.com/
+  
   https://github.com/mhizhapaul58-design/PaulScript-
 
 ## Links to the live pages
 
   https://github.com/
+  
   https://github.com/mhizhapaul58-design/PaulScript-
- 
-## Credits and attributions for any resources used
+  
+ ## Credits and attributions for any resources used
 
 ## Reflection on what you learned during this project
 
