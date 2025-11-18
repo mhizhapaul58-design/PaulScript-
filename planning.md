@@ -2,7 +2,7 @@
 
 ## **Overview** 
 
--This project is personal portfolio website crreated to showcase my skills, projects and personality
+-This project is personal portfolio website created to showcase my skills, projects and personality
 
 -It will serve a digital resume and creative space to display my work
 
