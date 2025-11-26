@@ -1,6 +1,6 @@
 
 
-/* ===== GLOBAL STYLES ===== */
+
 body {
     margin: 0;
     padding: 0;
@@ -10,9 +10,8 @@ body {
     line-height: 1.6;
 }
 
-/* ===== HEADER ===== */
 header {
-    background-color: #6a0dad; /* Purple */
+    background-color: #6a0dad;
     color: white;
     text-align: center;
     padding: 30px 20px;
@@ -28,16 +27,15 @@ header p {
     font-size: 16px;
 }
 
-/* ===== MAIN CONTENT ===== */
 main {
     max-width: 900px;
     margin: 40px auto;
     padding: 0 20px;
 }
 
-/* SECTIONS */
+
 section {
-    background-color: #f7e7ff; /* Soft light purple */
+    background-color: #f7e7ff; 
     padding: 25px;
     margin-bottom: 30px;
     border-radius: 12px;
@@ -49,13 +47,12 @@ section h2 {
     margin-top: 0;
 }
 
-/* Profile Image */
 section img {
     display: block;
     margin: 10px auto 25px;
 }
 
-/* Ordered List (Hobbies) */
+
 ol {
     padding-left: 20px;
 }
@@ -66,21 +63,18 @@ ol li {
     color: #6a0dad;
 }
 
-/* Sub-section titles */
 h3 {
     margin-top: 10px;
     color: #580b9e;
 }
 
-/* Images inside hobby sections */
 section img {
     width: 250px;
     border-radius: 12px;
     margin-top: 10px;
     box-shadow: 0px 2px 6px rgba(0,0,0,0.2);
 }
-
-/* ===== FOOTER ===== */
+/
 footer {
     text-align: center;
     background-color: #6a0dad;
@@ -88,6 +82,7 @@ footer {
     padding: 20px;
     margin-top: 40px;
 }
+
 
 
 
