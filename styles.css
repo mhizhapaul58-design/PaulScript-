@@ -17,6 +17,7 @@ header {
 header h1 {
     margin: 0;
     font-size: 32px;
+    color: white;
 }
 
 header p {
@@ -66,6 +67,7 @@ footer {
     padding: 20px;
     margin-top: 40px;
 }
+
 
 
 
