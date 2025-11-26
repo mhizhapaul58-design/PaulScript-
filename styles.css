@@ -1,17 +1,14 @@
-
-
-
 body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-color: #ffffff;
+    background-color: #d8b8ff;
     color: #333;
     line-height: 1.6;
 }
 
 header {
-    background-color: #6a0dad;
+    background-color: #6a0dad; 
     color: white;
     text-align: center;
     padding: 30px 20px;
@@ -35,8 +32,8 @@ main {
 
 
 section {
-    background-color: #f7e7ff; 
-    padding: 25px;
+    background-color: #f7e7ff;     
+    padding: 4rem 2rem;
     margin-bottom: 30px;
     border-radius: 12px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.1);
@@ -45,13 +42,6 @@ section {
 section h2 {
     color: #6a0dad;
     margin-top: 0;
-}
-
-section img {
-    display: block;
-    margin: 10px auto 25px;
-}
-
 
 ol {
     padding-left: 20px;
@@ -68,13 +58,7 @@ h3 {
     color: #580b9e;
 }
 
-section img {
-    width: 250px;
-    border-radius: 12px;
-    margin-top: 10px;
-    box-shadow: 0px 2px 6px rgba(0,0,0,0.2);
-}
-/
+
 footer {
     text-align: center;
     background-color: #6a0dad;
@@ -82,6 +66,7 @@ footer {
     padding: 20px;
     margin-top: 40px;
 }
+
 
 
 
