@@ -73,8 +73,15 @@
   https://github.com/mhizhapaul58-design/PaulScript-
   
  ## Credits and attributions for any resources used
+ Images from Pintrest 
+ Tutorials used: w3schoools 
 
 ## Reflection on what you learned during this project
+
+During this project, I leraned how to plan, design and build a multi-page webiste using HTML and CSS. I improved my understaning
+of layout techniques. I really enjoyed this project because I gained experience with organising files and writing reusable code.
+In the beginning of the project I had a baisc understanding of HTML and CSS but as I was going on with the project I understood how 
+things work. Overall this project helped me grow both technically and creatively
 
 
 
