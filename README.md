@@ -77,6 +77,8 @@
  
  Tutorials used: w3schoools 
 
+ MDN (Mozilla Development Network)
+
 ## Reflection on what you learned during this project
 
 During this project, I leraned how to plan, design and build a multi-page webiste using HTML and CSS. I improved my understaning
