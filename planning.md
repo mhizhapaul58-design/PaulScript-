@@ -97,12 +97,13 @@ The HTML <canvas> element is used to draw graphics on a web page.
  ## Brief discussion of HTML and CSS evolution
 
 HTML is the foundation of the webpage. 
-It tells us what content is text video and image. 
-It started from HTML1.0 to HTML5, it got advanced every year. 
-It was in 1991.It was designed by Tim Berners-Lee
+HTML is a very evolving markup language and has evolved with various versions updating. 
+Long before its revised standards and specifications are carried in, each version has 
+allowed its user to create web pages in a much easier and prettier way and make sites very efficient.....Got this from https://www.w3schools.in/html/history
 
-CSS(Cascading Style Sheet) is the language we use to style an HTML document. 
-CSS describes how HTML elements should be displayed.
+
+CSS(Cascading Style Sheet) CSS is the language we use to style an HTML document.. 
+CSS describes how HTML elements should be displayed....Got this paragraph from w3schools
  
 
  
