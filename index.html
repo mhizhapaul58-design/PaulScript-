@@ -83,13 +83,29 @@
     <footer>
         <section id="contact">
             <h2>Contact</h2>
-            <form action="#" method="get"
+            <form action="#" method="get">
+                <div class="form-group">
+                    <label for="name">Your name:</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
 
-                
-        <p> &copy; 2025 My Blog. All rights reserved.</p>
+                <div class="form-group">
+                    <label for="email">Your email:</label>
+                    <input type="email" id="email" name="email" required>  
+                </div>
+                <div class="form-group">
+                    <label for="notes">Notes:</label>
+                    <textarea id="notes"name="notes"
+                        rows="6"></textarea>      
+                </div>
+                <button type="submit">Save Notes</button>
+            </form>
+        </section>        
+        <p> &copy; 2025 PaulScript-. All rights reserved.</p>
     </footer>
 </body>
 </html>
+
 
 
 
