@@ -103,7 +103,7 @@ allowed its user to create web pages in a much easier and prettier way and make 
 
 
 CSS(Cascading Style Sheet) CSS is the language we use to style an HTML document.. 
-CSS describes how HTML elements should be displayed....Got this paragraph from w3schools
+CSS describes how HTML elements should be displayed....Got this paragraph from https://www.w3schools.com/css/default.asp
  
 
  
