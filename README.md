@@ -73,7 +73,7 @@
   https://github.com/mhizhapaul58-design/PaulScript-
   
  ## Credits and attributions for any resources used
- Images: 
+ Image source: 
  
  -Pintrest 
  
