@@ -73,11 +73,15 @@
   https://github.com/mhizhapaul58-design/PaulScript-
   
  ## Credits and attributions for any resources used
- Images from Pintrest 
+ Images: 
  
- Tutorials used: w3schoools 
+ -Pintrest 
+ 
+ Tutorials used:
+ 
+ -w3schoools 
 
- MDN (Mozilla Development Network)
+ -MDN (Mozilla Development Network)
 
 ## Reflection on what you learned during this project
 
