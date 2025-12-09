@@ -39,7 +39,8 @@
 -The navigation bar will fixed at the top and icludes links to Home , page1 and page2
 
 -This structure ensures easy access to pages and improves user experience
-## **Sketches of planned layout
+## **Sketches of planned layout**
+
 
 ## **Technologies used**
 
