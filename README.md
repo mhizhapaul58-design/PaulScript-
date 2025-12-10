@@ -95,13 +95,11 @@
 
  dbmaster.html
 
- 
+ https://i.pinimg.com/1200x/9b/e2/06/9be206a792c842092a2525bc0864afa1.jpg
  
  Tutorials used:
  
  -w3schoools 
-
- -MDN (Mozilla Development Network)
 
 ## Reflection on what you learned during this project
 
