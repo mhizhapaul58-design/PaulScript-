@@ -90,6 +90,12 @@
  webdev.html
 
  https://i.pinimg.com/1200x/30/98/0b/30980bf7bc0937d688edb22bfdd82729.jpg
+
+ https://i.pinimg.com/736x/5e/78/c3/5e78c31a7db2abcc7d226f55cc9bc288.jpg
+
+ dbmaster.html
+
+ 
  
  Tutorials used:
  
